@@ -7,7 +7,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsamn)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsamnn)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsamnn)
   
 </div>
 
@@ -21,7 +20,6 @@ I'm a software engineer specializing in **IoT & Smart Energy Systems**. Building
 
 <a href="https://linkedin.com/in/itsamn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff" height="32"/></a>
 <a href="https://github.com/Itsamnn"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" height="32"/></a>
-<a href="https://t.me/itsamnn"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=fff" height="32"/></a>
 
 ---
 
