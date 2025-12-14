@@ -1,145 +1,107 @@
+<h1 align="center">👋 Hey, I'm Aman Patel</h1>
+<p align="center">
+  <b>IoT Engineer</b> • <b>AI/ML Developer</b> • <b>Final-year EE Student</b>
+</p>
+
 <div align="center">
-  <h1>👋 Hey, I'm Aman Patel</h1>
-  <p>
-    <b>Final-year Electrical Engineering student</b> | <b>IoT & AI Enthusiast</b> | <b>Building Smart Energy Systems</b>
-  </p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsamn)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsamnn)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsamnn)
+  
 </div>
 
 ---
 
-## 🎯 About Me
+## 📋 About Me
 
-I'm passionate about building **production-ready IoT systems** that combine hardware, software, and intelligent algorithms. My focus is on creating real-world solutions for energy monitoring, load disaggregation, and smart automation.
+I'm a software engineer specializing in **IoT & Smart Energy Systems**. Building real-world solutions that combine hardware, software, and AI.
 
-**What I Do:**
-- 🔧 **Hardware-Software Integration**: ESP32, PZEM sensors, GSM modules with Python backends
-- 🤖 **AI/ML Engineering**: Gemini API, LangChain, ML models (Random Forest, XGBoost, LSTM)
-- ☁️ **Cloud Architecture**: Firebase Realtime DB, FastAPI, Google Cloud Platform
-- 📊 **Data Processing**: Real-time analytics, anomaly detection, predictive modeling
-- 🔄 **Workflow Automation**: n8n, API integrations, end-to-end system pipelines
+### 🔗 Socials
 
----
-
-## 🚀 Major Projects
-
-### **1. NILM AI Agent** | Non-Intrusive Load Monitoring
-- **Stack**: FastAPI + Gemini AI + Firebase + Python  
-- **Innovation**: AI-powered appliance identification from aggregate power data
-- **Achievement**: 90%+ accuracy in appliance-level disaggregation
-- **Why it matters**: Enables household-level energy optimization without separate meters
-- **[View Repository](https://github.com/Itsamnn/NILM)**
-
-### **2. Smart Meter AI** | Intelligent Energy Monitoring System
-- **Stack**: ESP32 + PZEM + GSM + Python + ML + Firebase
-- **Features**:
-  - Real-time energy measurement (V, I, P, E)
-  - ML predictions with 87-92% accuracy  
-  - Anomaly detection for theft prevention
-  - Remote monitoring via GSM/WiFi
-- **Scalability**: Designed for 1000+ concurrent meters
-- **[View Repository](https://github.com/Itsamnn/smart-meter-ai)**
-
-### **3. EV Charging Demand Prediction** | AICTE Internship
-- **Challenge**: Predict electric vehicle charging demand with seasonal variations
-- **Approach**: LSTM time-series + XGBoost ensemble
-- **Result**: Production-ready ML pipeline deployed on Google Cloud
-- **Tech**: Python, TensorFlow, Pandas, scikit-learn
+<a href="https://linkedin.com/in/itsamn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff" height="32"/></a>
+<a href="https://github.com/Itsamnn"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" height="32"/></a>
+<a href="https://t.me/itsamnn"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=fff" height="32"/></a>
 
 ---
 
-## 💻 Technical Expertise
+## 💻 Tech Stack
 
-**Programming Languages:**
-```
-Python ████████ 90% | C++ ██████ 75% | JavaScript ██████ 70% | Kotlin █████ 60%
-```
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=fff&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=fff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat-square)
+![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=000&style=flat-square)
 
-**Core Competencies:**
+### IoT & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=fff&style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat-square)
+![C](https://img.shields.io/badge/Embedded%20C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
 
-| Area | Skills | Depth |
-|------|--------|-------|
-| **Microcontrollers** | ESP32, Arduino, embedded C++ | Production-level |
-| **IoT Sensors** | PZEM-004T, DS18B20, GSM (SIM800L) | Full integration |
-| **Backend** | FastAPI, Flask, Express.js | Production APIs |
-| **AI/ML** | Gemini API, LangChain, scikit-learn, TensorFlow | 3+ projects |
-| **Databases** | Firebase Realtime DB, SQL, MongoDB | Real-time systems |
-| **Cloud** | Google Cloud, Firebase, Docker | Deployment-ready |
-| **DevOps** | Docker, GitHub Actions, CI/CD | Hands-on |
-| **System Design** | Real-time systems, scalability, microservices | 50-1000 user scale |
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?logo=google&logoColor=fff&style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat-square)
 
----
-
-## 🧠 My Thinking & Approach
-
-### **Problem-Solving Philosophy**
-1. **Understand before building**: Research existing solutions, identify gaps
-2. **Design for scale**: Build with 10x growth in mind from day one
-3. **Real data > Theory**: Validate with actual sensor data, not synthetic
-4. **Production mindset**: Error handling, logging, monitoring from start
-5. **Iterate rapidly**: Prototype → Test → Deploy → Improve
-
-### **Technical Decision Making**
-- Chose **FastAPI** over Flask for: async support, auto-docs, modern Python
-- Chose **Firebase** over traditional DB for: real-time sync, scalability without devops
-- Chose **Gemini AI** for: cost-effective, good context understanding for load analysis
-- Built **modular architecture**: config files, utils, separate models (extensible)
-
-### **Learning Approach**
-- **Active learning**: Do McKinsey Accelerate, Google Gen AI courses (not just watching)
-- **Project-based**: Kaggle competitions, AICTE internships, capstone projects
-- **Depth + Breadth**: Master core (IoT + ML), explore adjacent (DevOps, Design)
+### Cloud & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=fff&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=fff&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 
 ---
 
-## 📈 Growth & Learning
+## 🎯 Featured Projects
 
-**Completed Courses:**
-- ✅ Google AI/ML Essentials
-- ✅ McKinsey Accelerate (Analytics)
-- ✅ Kaggle 5-Day AI Agent Challenge  
-- ✅ AICTE Smart India Hackathon
+### 🤖 NILM AI Agent
+**Non-Intrusive Load Monitoring with Gemini AI**
+- FastAPI backend with real-time energy disaggregation
+- 90%+ accuracy appliance identification
+- Firebase Realtime DB integration
+- **[View Project →](https://github.com/Itsamnn/NILM)**
 
-**Currently Learning:**
-- Advanced AI agents architecture
-- Full-stack mobile (Flutter + Kotlin)
-- Cloud DevOps practices
-- Advanced system design patterns
+### 🔌 Smart Meter AI  
+**Intelligent Energy Monitoring System**
+- ESP32 + PZEM sensors (Hardware)
+- ML predictions & anomaly detection
+- GSM/WiFi remote monitoring
+- Designed for 1000+ concurrent devices
+- **[View Project →](https://github.com/Itsamnn/smart-meter-ai)**
 
----
-
-## 🎓 Education & Experience
-
-**B.Tech Electrical Engineering** (Final Year) - India  
-**Internship**: AICTE Smart India Hackathon (EV Charging Prediction)  
-**Campus Recruitment**: Ampere Hour Pvt Ltd (Smart Energy Domain)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itsamnn&show_icons=true&theme=dark)
+### ⚡ EV Charging Demand Prediction
+**AICTE Internship Project**
+- LSTM Time-Series + XGBoost ensemble
+- Seasonal demand forecasting
+- Production deployment on Google Cloud
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Stats
 
-**Looking for**: Software/IoT internships | Collaborative projects | Technical discussions
-
-- 💼 **LinkedIn**: [/in/itsamn](https://linkedin.com/in/itsamn)
-- 📧 **Email**: amanpatel2020402@gmail.com
-- 🔗 **GitHub**: [github.com/Itsamnn](https://github.com/Itsamnn)
-- 📱 **Telegram**: [@itsamnn](https://t.me/itsamnn)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itsamnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=e6edf3)
 
 ---
+
+## 🚀 What I'm Up To
+
+- 🚀 Building production-ready IoT systems
+- 🤖 Deep-diving into AI agents architecture  
+- 📱 Learning full-stack mobile (Flutter + Kotlin)
+- 📄 Documenting my projects & sharing knowledge
+
+---
+
+## 💬 Let's Connect
+
+💼 **Looking for:** IoT Engineer Roles | Full-Stack Dev Positions | Internships  
+📧 **Email:** amanpatel2020402@gmail.com  
+💬 **Telegram:** @itsamnn  
 
 <div align="center">
-  <p>
-    <b>⚡ Building intelligent energy systems, one bit at a time</b><br>
-    <i>"The best code is code that solves real problems for real people"</i>
-  </p>
-  <p>
-    <a href="https://github.com/Itsamnn/smart-meter-ai">🔥 Featured Project</a> •
-    <a href="https://github.com/Itsamnn/NILM">🤖 AI Project</a> •
-    <a href="https://github.com/Itsamnn?tab=repositories">📚 All Projects</a>
-  </p>
+  <br>
+  <p><b>⚡ Building the future of smart energy, one bit at a time</b></p>
+  <p><i>"The best code solves real problems for real people"</i></p>
 </div>
