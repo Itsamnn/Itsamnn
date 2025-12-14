@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey, I'm Aman Patel</h1>
 <p align="center">
-  <b>IoT Engineer</b> • <b>AI/ML Developer</b> • <b>Final-year EE Student</b>
-</p>
+<b>IoT AI Systems Engineer</b> • <b>AI Automation Engineer</b> • <b>AI/ML Developer</b> • <b>Final-year EE Student</b></p>
 
 <div align="center">
   
@@ -14,8 +13,7 @@
 
 ## 📋 About Me
 
-I'm a software engineer specializing in **IoT & Smart Energy Systems**. Building real-world solutions that combine hardware, software, and AI.
-
+I'm an IoT AI Systems Engineer specializing in smart energy systems, AI automation, and edge-to-cloud IoT solutions. I design intelligent systems where microcontrollers collect real-time data, AI agents process it, and automated workflows execute smart decisions.
 ### 🔗 Socials
 
 <a href="https://linkedin.com/in/itsamn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff" height="32"/></a>
@@ -49,6 +47,10 @@ I'm a software engineer specializing in **IoT & Smart Energy Systems**. Building
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=fff&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
+
+### 🤖 AI Automation & Workflows
+![n8n](https://img.shields.io/badge/n8n-000000?logo=n8n&logoColor=white&style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square) ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=flat-square)
 
 ---
 
