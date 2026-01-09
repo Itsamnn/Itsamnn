@@ -71,6 +71,16 @@ I'm an IoT AI Systems Engineer specializing in smart energy systems, AI automati
 - Designed for 1000+ concurrent devices
 - **[View Project →](https://github.com/Itsamnn/smart-meter-ai)**
 
+
+### ⚡ Voltra: IoT Energy Platform
+
+**Complete Smart Grid Ecosystem with AI Automation**
+
+• Umbrella repository for end-to-end energy monitoring platform
+• 4-layer architecture: Hardware (ESP32), NILM Analytics (FastAPI), Orchestration (n8n), Mobile App (Android)
+• Real-time energy monitoring with 90%+ appliance identification accuracy
+• Multi-component system with unified dashboard
+• **[View Project →](https://github.com/Itsamnn/voltra-ecosystem)**
 ### ⚡ EV Charging Demand Prediction
 **AICTE Internship Project**
 - LSTM Time-Series + XGBoost ensemble
