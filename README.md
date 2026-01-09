@@ -56,21 +56,6 @@ I'm an IoT AI Systems Engineer specializing in smart energy systems, AI automati
 
 ## 🎯 Featured Projects
 
-### 🤖 NILM AI Agent
-**Non-Intrusive Load Monitoring with Gemini AI**
-- FastAPI backend with real-time energy disaggregation
-- 90%+ accuracy appliance identification
-- Firebase Realtime DB integration
-- **[View Project →](https://github.com/Itsamnn/NILM)**
-
-### 🔌 Smart Meter AI  
-**Intelligent Energy Monitoring System**
-- ESP32 + PZEM sensors (Hardware)
-- ML predictions & anomaly detection
-- GSM/WiFi remote monitoring
-- Designed for 1000+ concurrent devices
-- **[View Project →](https://github.com/Itsamnn/smart-meter-ai)**
-
 
 ### ⚡ Voltra: IoT Energy Platform
 
